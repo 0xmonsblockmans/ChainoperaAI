@@ -1,12 +1,12 @@
 const a = {
-        X: "https://x.com/",
+        X: "https://x.com/ChainOperaAI",
         Discord: "https://discord.gg/chainopera",
         Linkedin: "https://www.linkedin.com/company/chainopera",
         Medium: "https://medium.com/@chainopera",
         Docs: "https://docs.chainopera.ai/",
-        Telegram: "https://t.me/",
+        Telegram: "https://x.com/ChainOperaAIChainOperaAI",
         Career: "https://jobs.ashbyhq.com/Chainopera",
-        TelegramMain: "https://t.me/"
+        TelegramMain: "https://x.com/ChainOperaAIChainOperaAI"
     },
     e = {
         "fedml-official": "7fdd16f8e2f9438e97d71c1cc62898ed",

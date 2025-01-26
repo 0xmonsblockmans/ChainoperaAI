@@ -112,7 +112,7 @@ const f = "/resource/img/chainopera/logo-with-brand.png",
                 children: [{
                     label: "Whitepaper",
                     key: "Whitepaper",
-                    link: "https://paper.chainopera.ai"
+                    link: "https://docs.chainoperaai.vip/chainopera-ai-os/ai-agent-society"
                 }]
             }]), F = i([]);
             return (e, l) => {
